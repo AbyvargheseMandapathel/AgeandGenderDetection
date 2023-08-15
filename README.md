@@ -8,7 +8,6 @@ This repository contains a Python-based web application for age and gender detec
 - Utilizes deep learning models for accurate age and gender predictions.
 - Web interface for easy interaction and visualization.
 - Customizable confidence threshold for face detection and predictions.
-- Handles multiple faces in an image.
 
 ## Usage
 
